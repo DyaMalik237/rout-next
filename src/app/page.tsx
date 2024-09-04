@@ -7,30 +7,25 @@ const page = () => {
   <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
     <blockquote>
       <p className="text-lg font-medium">
-      "A house is not just a shelter from the storm,
-But a reflection of the soul that dwells within its form."
-
-"Its walls hold the whispers of our past,
-And the echoes of memories that forever last."
-
-"A house is a canvas of love and pain,
-Where every room tells a story, every wall bears a stain."
-
-"It's a place where dreams are born and fade,
-Where the heart finds solace, and the soul is made."
-
-"The creaks and groans of its wooden bones,
-Echo the laughter and tears that make a house a home."
-
+      A house is not just a shelter from the storm,
+But a reflection of the soul that dwells within its form.
+Its walls hold the whispers of our past,
+And the echoes of memories that forever last.
+A house is a canvas of love and pain,
+Where every room tells a story, every wall bears a stain.
+It is a place where dreams are born and fade,
+Where the heart finds solace, and the soul is made.
+The creaks and groans of its wooden bones,
+Echo the laughter and tears that make a house a home.
 I hope you find these lines meaningful!
       </p>
     </blockquote>
     <figcaption className="font-medium">
       <div className="text-sky-500 dark:text-sky-400">
-        
+        Diya malik
       </div>
       <div className="text-slate-700 dark:text-slate-500">
-        
+        student of Ai course
       </div>
     </figcaption>
   </div>

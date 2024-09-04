@@ -7,16 +7,16 @@ const page = () => {
         <div className="pt-6 md:p-8 text-center space-y-4">
           <blockquote>
             <p className="text-lg font-medium">
-              “I am from RYK.Address is Manthar Road ghosia colony pull Nehr Kinara Rahim Yar Khan.”
+              I am from RYK.Address is Manthar Road ghosia colony pull Nehr Kinara Rahim Yar Khan.
             </p>
           </blockquote>
           <figcaption className="font-medium">
             <div className="text-sky-500 dark:text-sky-400">
-              
-            </div>
+             Diya malik
+              </div>
             <div className="text-slate-700 dark:text-slate-500">
-              
-            </div>
+                student of Ai course
+              </div>
           </figcaption>
         </div>
       </figure></div>

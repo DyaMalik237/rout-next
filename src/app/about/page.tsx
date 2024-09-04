@@ -7,18 +7,17 @@ const page = () => {
         <div className="pt-6 md:p-8 text-center space-y-40">
           <blockquote>
             <p className="text-lg font-medium">
-              "My name is diya malikI am from Rahim Yar Khan.I am a student of Artificial intelligence.I am also a student of
+              My name is diya malikI am from Rahim Yar Khan.I am a student of Artificial intelligence.I am also a student of
               ICS.I am interested in this course.Iwill try to achieve this goul inshalah.My Father is a business man.I also have a great iterest in business.
-        
-            </p>
+              </p>
           </blockquote>
-          <figcaption className="font-medium">
+          <figcaption className="font-minimum">
             <div className="text-sky-500 dark:text-sky-400">
-              
-            </div>
+                Diya malik
+              </div>
             <div className="text-slate-700 dark:text-slate-500">
-              
-            </div>
+                Student of Ai course
+              </div>
           </figcaption>
         </div>
       </figure></div>

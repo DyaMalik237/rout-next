@@ -7,16 +7,16 @@ const page = () => {
         <div className="pt-6 md:p-8 text-center space-y-20">
           <blockquote>
             <p className="text-lg font-medium">
-               Contact number is 03106518644.My gmail is dyamalik237@gmail.com.”
+               Contact number is 03106518644.My gmail is dyamalik237@gmail.com.
             </p>
           </blockquote>
           <figcaption className="font-medium">
             <div className="text-sky-500 dark:text-sky-400">
-              
-            </div>
+                Diya malik
+              </div>
             <div className="text-slate-700 dark:text-slate-500">
-              
-            </div>
+                student of Ai course
+              </div>
           </figcaption>
         </div>
       </figure></div>
